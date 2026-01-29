@@ -1,13 +1,25 @@
-# Task 4 – AR / VR Interface Design
+## Task 1 – Landing Page Redesign (UI/UX)
+
+## Company Name
+CODTECH IT SOLUTIONS
 
 ## Intern Name
 Nukala Pranith Reddy
 
-## Email
-pranithr572@gmail.com
+## Intern ID
+CTIS1557
 
-## Internship
-UI/UX Internship
+## Email
+pranithr572@gmail.com  
+
+## Domain
+UI/UX Internship 
+
+## Duration
+4 WEEKS
+
+## Mentor
+Neela Santhosh
 
 ---
 
